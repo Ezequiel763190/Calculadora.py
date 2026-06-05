@@ -45,14 +45,9 @@ Durante o desenvolvimento, também foram exploradas bibliotecas nativas do Pytho
 
 Sobre Mim:
 
-Nome: Ezequiel Botelho Rocha
-
-Número: (11) 97313-6284
-
-E-mail: ezequiel27rocha@gmail.com
-
-Curso: Ciência da Computação
-
-Faculdade: Centro Universitário FEI
-
-Início e Término do Curso: 2026 - 2029
+- Nome: Ezequiel Botelho Rocha
+- Número: (11) 97313-6284
+- E-mail: ezequiel27rocha@gmail.com
+- Curso: Ciência da Computação
+- Faculdade: Centro Universitário FEI
+- Início e Término do Curso: 2026 - 2029
